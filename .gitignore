@@ -16,3 +16,6 @@ contributions/
 telemetry/
 deploy/terraform/.terraform/
 deploy/terraform/.terraform.lock.hcl
+website/node_modules/
+website/build/
+website/.docusaurus/
